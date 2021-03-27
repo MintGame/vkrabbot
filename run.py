@@ -28,7 +28,7 @@ abuse_balance = settings['ABUSE_IF_BALANCE']
 client = Slaves(token)
 
 
-jobs = ['Живем Живем', 'Повезло Повезло', '.']
+jobs = ['https://vk.cc/c0d12g']
 
 
 
