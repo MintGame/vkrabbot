@@ -1,2 +1,0 @@
-heroku==0.1.4
-vk-slave==1.2.0
