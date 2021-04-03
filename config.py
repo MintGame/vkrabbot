@@ -1,7 +1,7 @@
 settings = {
     
     'info': {
-        'TOKEN': 'f3c7fab4676f29f1fe7f4cc75137c0ab15c22915ed86ee70326f04e0a2afddca228b45e2732eb155662d5', # https://vkhost.github.io (VK ADMIN)
+        'TOKEN': '', # https://vkhost.github.io (VK ADMIN)
         'ID': 391280685, # Ваш ID (https://regvk.com/id/)
         'DEBUG': False, # Режим разработчика (большее количество логов)
     },
